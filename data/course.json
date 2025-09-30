@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "239d3f09-230f-0e30-4255-cc85fa68b8c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "21aca6c5-da49-4832-a2fc-a26131ef6533",
+    "website": "introduction-to-relativity-and-spacetime-physics"
+  },
+  "course_title": "Introduction to Relativity and Spacetime Physics",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "The goal of this course is to give you a thorough introduction to Einstein\u2019s special theory of relativity, and to give you a brief introduction to core concepts of Einstein\u2019s general theory of relativity. The course is designed to be accessible to first-semester sophomores, and suitable as one of the first \u201ccore major\u201d courses students encounter after completing the physics [General Institute Requirement](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext).",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.033",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "3f12ee79-5300-49de-9e9f-1c2673a774bb",
+  "site_short_id": "8.033-fall-2024",
+  "site_url_path": "courses/8-033-introduction-to-relativity-and-spacetime-physics-fall-2024"
+}
