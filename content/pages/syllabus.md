@@ -14,11 +14,11 @@ Recitations: 1 session/week, 1 hour/session
 
 ## Prerequisites
 
-[*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) and [*8.02 Physics II: Electricity and Magnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)
+{{% resource_link "1179fe2e-5265-4215-8c22-bf644ca47b1b" "*18.02 Multivariable Calculus*" %}} and {{% resource_link "a158f446-2fff-4014-964c-51780fb95376" "*8.02 Physics II: Electricity and Magnetism*" %}}
 
 ## Course Description
 
-The goal of this course is to give you a thorough introduction to Einstein’s special theory of relativity, and to give you a brief introduction to core concepts of Einstein’s general theory of relativity. The course is designed to be accessible to first-semester sophomores, and suitable as one of the first “core major” courses students encounter after completing the physics [General Institute Requirement](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext).
+The goal of this course is to give you a thorough introduction to Einstein’s special theory of relativity, and to give you a brief introduction to core concepts of Einstein’s general theory of relativity. The course is designed to be accessible to first-semester sophomores, and suitable as one of the first “core major” courses students encounter after completing the physics {{% resource_link "7f149899-a194-4749-92c6-8a52a733a058" "General Institute Requirement" %}}.
 
 Older versions of this course have gone into the general theory of relativity more deeply than we will this semester. Although a subset of students enjoyed this material, getting to these advanced topics meant covering some of the basics quickly and less thoroughly. This worked fine for students with advanced preparation, but unfortunately meant that the course had evolved beyond being accessible to the typical first-semester sophomore. In recent runs of the course, the syllabus has been re-pitched to a level appropriate for students who are just beginning their in-depth study of physics. 
 

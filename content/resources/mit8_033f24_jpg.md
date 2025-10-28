@@ -7,10 +7,10 @@ file_size: 1080483
 file_type: image/jpeg
 image_metadata:
   caption: The curvature of spacetime around the source of the gravitational force.
-    (Image by [Maschen](https://commons.wikimedia.org/wiki/File:Gravitation_space_source.svg)
+    (Image by {{% resource_link "11a62cf2-d001-41b4-bff8-4335f5b2ad00" "Maschen" %}}
     on Wikimedia Commons. Image is in the public domain.)
-  credit: Image by [Maschen](https://commons.wikimedia.org/wiki/User:Maschen) on Wikimedia
-    Commons. Image is in the public domain.
+  credit: Image by {{% resource_link "50c23a8c-d069-4846-abce-2a546d4ca9c8" "Maschen"
+    %}} on Wikimedia Commons. Image is in the public domain.
   image-alt: A set of grid lines bending around a dark round object.
 learning_resource_types: []
 license: https://creativecommons.org/publicdomain/zero/1.0/
