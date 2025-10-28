@@ -5,8 +5,6 @@ draft: false
 file: /courses/8-033-introduction-to-relativity-and-spacetime-physics-fall-2024/mit8_033_f24_lec15.pdf
 file_size: 322795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
